@@ -34,7 +34,7 @@ app.get('/react', (req, res) => {
   const myHtml = `
     <html>
       <body>
-        <h1>Wow, react</h1>
+        <h1>Tweets</h1>
         <div id="app"></div>
         <script type="text/javascript" src="/main.js"></script>
       </body>
